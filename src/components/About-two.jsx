@@ -14,7 +14,7 @@ import amazon from '../images/icons/amazon.png';
 import jasper from '../images/icons/jasper-ai.png';
 import snapchat from '../images/icons/snapchat.png';
 import chatgpt from '../images/icons/chatgpt.png';
-import Gemini from '../images/icons/Gemini-ai.png';
+import Gemini from '../images/icons/Gemini.png';
 import googleLogo from '../images/icons/google-logo.png';
 import gtm from '../images/icons/google-tag-manager.png';
 import twitter from '../images/icons/twitter.png';

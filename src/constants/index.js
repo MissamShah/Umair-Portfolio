@@ -65,22 +65,22 @@ const social = [
   {
     name: "LinkedIn",
     icon: "fa-brands fa-linkedin-in",
-    link: "https://www.linkedin.com/in/moosa-raza-6834a31a1/",
+    link: "https://www.linkedin.com/in/umair-hassan-317431336/",
   },
   {
     name: "Instagram",
     icon: "fa-brands fa-instagram",
-    link: "https://www.instagram.com/missam_naqvi5/",
+    link: "https://www.instagram.com/umairhassan056?igsh=Yjh0M3EzNHoxM2Vu",
   },
   {
     name: "GitHub",
-    icon: "fa-brands fa-github",
-    link: "https://github.com/MissamShah",
+    icon: "fa-brands fa-facebook",
+    link: "https://www.facebook.com/share/17G98b4v5g/",
   },
   {
     name: "Twitter",
     icon: "fa-brands fa-twitter",
-    link: "https://twitter.com/MissamShah",
+    link: "https://x.com/UmairHa45963438?t=xIV6zoL3UVl3FyXGSSVmLg&s=09",
   }
 ];
 
