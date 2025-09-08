@@ -4,34 +4,29 @@ import { motion } from "framer-motion";
 import { Link } from 'react-router-dom';
 
 // Import images (if they are in the src folder)
-import reactJS from '../images/icons/reactJS.png';
-import html5 from '../images/icons/html5.png';
-import js from '../images/icons/js.png';
-import css from '../images/icons/css.png';
-import mui from '../images/icons/mui.png';
-import bootstrap from '../images/icons/bootstrap.png';
-import sass from '../images/icons/sass.png';
-import nodeJS from '../images/icons/nodeJS.png';
-import expressJS from '../images/icons/expressJS.png';
-import mongodb from '../images/icons/mongodb.png';
-import jwt from '../images/icons/jwt.png';
+import meta from '../images/icons/meta.png';
+import google from '../images/icons/google.png';
 import shopifyTheme from '../images/icons/shopifyTheme.png';
-import figma from '../images/icons/figma.png';
-import jquery from '../images/icons/jquery.png';
-import redux from '../images/icons/Redux.png';
-import mysql from '../images/icons/mysql.png';
-import tailwind from '../images/icons/tailwind.png';
+import facebook from '../images/icons/facebook.png';
+import instagram from '../images/icons/instagram.png';
+import tiktok from '../images/icons/tiktok.png';
+import amazon from '../images/icons/amazon.png';
+import jasper from '../images/icons/jasper-ai.png';
+import googleLogo from '../images/icons/google-logo.png';
+import gtm from '../images/icons/google-tag-manager.png';
+import twitter from '../images/icons/twitter.png';
+import youtube from '../images/icons/youtube.png';
+import linkedin from '../images/icons/linkedin.png';
+import reddit from '../images/icons/reddit.png';
+import psd from '../images/icons/psd.png';
+import pinterest from '../images/icons/pinterest.png';
+import business from '../images/icons/my-business.png';
+import canva from '../images/icons/canva.png';
 import skype from '../images/icons/skype.png';
 import slack from '../images/icons/slack.png';
-import aws from '../images/icons/aws.png';
 import git from '../images/icons/git.png';
 import github from '../images/icons/github.png';
-import gtm from '../images/icons/google-tag-manager.png';
-import graphql from '../images/icons/graphql.png';
-import threejs from '../images/icons/three-js-icon.png';
-import typescript from '../images/icons/typescript.png';
-import docker from '../images/icons/docker.png';
-import nextjs from '../images/icons/nextjs.png';
+
 
 const Abouttwo = () => {
     return (
@@ -81,34 +76,30 @@ const Abouttwo = () => {
                                 <div className="item">
                                 <ul className="flex flex-wrap gap-3 justify-center lg:justify-start">
                                         {[
-                                            { src: shopifyTheme, alt: "Shopify Theme" },
-                                            { src: graphql , alt: "GraphQL" },
-                                            { src: js, alt: "JavaScript" },
-                                            { src: typescript, alt: "TypeScript" },
-                                            { src: reactJS, alt: "ReactJS" },
-                                            { src: nextjs, alt: "NextJS" },
-                                            { src: html5, alt: "HTML5" },
-                                            { src: css, alt: "CSS" },
-                                            { src: tailwind, alt: "Tailwind CSS" },
-                                            { src: bootstrap, alt: "Bootstrap" },
-                                            { src: jquery, alt: "jQuery" },
-                                            { src: nodeJS, alt: "NodeJS" },
-                                            { src: expressJS, alt: "ExpressJS" },
-                                            { src: mongodb, alt: "MongoDB" },
-                                            { src: threejs, alt: "ThreeJS" },
-                                            { src: sass, alt: "SASS" },
-                                            { src: figma, alt: "Figma" },
-                                            { src: redux, alt: "Redux" },
-                                            { src: mysql, alt: "MySQL" },
+                                            { src: shopifyTheme, alt: "Shopify" },
+                                            { src: meta , alt: "Meta" },
+                                            { src: google, alt: "google Ads" },
+                                            { src: facebook, alt: "facebook" },
+                                            { src: instagram, alt: "instagram" },
+                                            { src: tiktok, alt: "tiktok" },
+                                            { src: amazon, alt: "amazon" },
+                                            { src: jasper, alt: "jasper" },
+                                            { src: googleLogo, alt: "google Logo" },
+                                            { src: twitter, alt: "twitter" },
+                                            { src: youtube, alt: "youtube" },
+                                            { src: linkedin, alt: "linkedin" },
+                                            { src: reddit, alt: "reddit" },
+                                            
+                                            { src: psd, alt: "psd" },
                                             { src: git, alt: "Git" },
                                             { src: github, alt: "GitHub" },
-                                            { src: docker, alt: "Docker"},
-                                            { src: aws, alt: "AWS" },
+                                            { src: pinterest, alt: "pinterest"},
+                                            { src: business, alt: "business" },
                                             { src: gtm, alt: "Google Tag Manager"},
                                             { src: skype, alt: "Skype" },
                                             { src: slack, alt: "Slack" },
-                                            { src: jwt, alt: "JWT" },                       
-                                            { src: mui, alt: "Material-UI" },
+                                            { src: canva, alt: "canva" },                       
+                        
                                         ].map((icon, index, array) => (
                                             <>
                                                 <li key={index} className="w-20 h-20 flex items-center justify-center bg-[#212428] shadow-card rounded-lg transition-transform duration-300 hover:-translate-y-1">
