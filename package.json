@@ -19,7 +19,7 @@
     "react-dom": "^18.2.0",
     "react-fast-marquee": "^1.6.5",
     "react-router-dom": "^6.8.1",
-    "react-tilt": "^0.1.4",
+    "react-tilt": "^1.0.2",
     "react-vertical-timeline-component": "^3.6.0",
     "sass": "^1.85.0",
     "three": "^0.149.0"
