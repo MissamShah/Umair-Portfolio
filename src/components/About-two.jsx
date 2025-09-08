@@ -12,6 +12,9 @@ import instagram from '../images/icons/instagram.png';
 import tiktok from '../images/icons/tiktok.png';
 import amazon from '../images/icons/amazon.png';
 import jasper from '../images/icons/jasper-ai.png';
+import snapchat from '../images/icons/snapchat.png';
+import chatgpt from '../images/icons/chatgpt.png';
+import Gemini from '../images/icons/Gemini-ai.png';
 import googleLogo from '../images/icons/google-logo.png';
 import gtm from '../images/icons/google-tag-manager.png';
 import twitter from '../images/icons/twitter.png';
@@ -83,22 +86,24 @@ const Abouttwo = () => {
                                             { src: instagram, alt: "instagram" },
                                             { src: tiktok, alt: "tiktok" },
                                             { src: amazon, alt: "amazon" },
+                                            { src: snapchat, alt: "snapchat" },
+                                            { src: gtm, alt: "Google Tag Manager"},
+                                            { src: business, alt: "business" },
+                                            { src: Gemini, alt: "Gemini"},
+                                            { src: chatgpt, alt: "chatgpt" },
                                             { src: jasper, alt: "jasper" },
                                             { src: googleLogo, alt: "google Logo" },
                                             { src: twitter, alt: "twitter" },
                                             { src: youtube, alt: "youtube" },
                                             { src: linkedin, alt: "linkedin" },
                                             { src: reddit, alt: "reddit" },
-                                            
-                                            { src: psd, alt: "psd" },
-                                            { src: git, alt: "Git" },
-                                            { src: github, alt: "GitHub" },
+                                            { src: canva, alt: "canva" }, 
                                             { src: pinterest, alt: "pinterest"},
-                                            { src: business, alt: "business" },
-                                            { src: gtm, alt: "Google Tag Manager"},
+                                            { src: psd, alt: "psd" },
                                             { src: skype, alt: "Skype" },
                                             { src: slack, alt: "Slack" },
-                                            { src: canva, alt: "canva" },                       
+                                            { src: git, alt: "Git" },
+                                            { src: github, alt: "GitHub" },                      
                         
                                         ].map((icon, index, array) => (
                                             <>
