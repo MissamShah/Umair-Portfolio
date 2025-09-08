@@ -5,7 +5,7 @@ import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 import { priceList } from "../constants";
 
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 import { github } from "../assets";
 
 

@@ -1,5 +1,5 @@
 import React from "react";
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 import { SectionWrapper } from "../hoc";
 import { skills } from "../constants";
 
