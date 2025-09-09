@@ -47,7 +47,7 @@ const Abouttwo = () => {
                             <div className="hr bg-[#212428] hr-line my-5"></div>
                             <div className="content flex flex-col gap-4">
                                 <p className="text-lg font-medium text-theme-textColor2 leading-relaxed text-center lg:text-left">
-                                Hello, my name is Umair Hassan, and I am a Social Media Marketing Specialist with 2 years of experience in developing and executing profitable advertising strategies for Ecommerce businesses.
+                                Hello, my name is Umair Hassan, and I am a Social Media Marketing Specialist with 3 years of experience in developing and executing profitable advertising strategies for Ecommerce businesses.
                                 My core expertise lies in paid Facebook and Instagram ads, where I have a proven track record of managing campaigns for both local and international brands, successfully generating millions of dollars in revenue. I am skilled in audience targeting, ad creative development, and data analysis to ensure optimal performance and a high return on ad spend.
 
                                 </p>
