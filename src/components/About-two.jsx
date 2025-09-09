@@ -107,7 +107,7 @@ const Abouttwo = () => {
                         
                                         ].map((icon, index, array) => (
                                             <>
-                                                <li key={index} className="w-[90px] h-[90px] flex items-center justify-center bg-[#212428] shadow-card rounded-lg transition-transform duration-300 hover:-translate-y-1">
+                                                <li key={index} className="w-[85px] h-[85px] flex items-center justify-center bg-[#212428] shadow-card rounded-lg transition-transform duration-300 hover:-translate-y-1">
                                                     <img src={icon.src} alt={icon.alt} className="max-h-8 w-auto" />
                                                 </li>
                                                 {/* Har 5 icons ke baad horizontal line add karega */}

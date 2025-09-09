@@ -290,350 +290,84 @@ const projectsDetails = [
 
 const projects = [
   {
-    name: "Elenor pk",
-    Cetagory: 'shopify frontend',
-    projecttype: "Hair Oil Brand",
+    name: "Neutrogena Official",
+    Cetagory: 'Digital Marketing',
+    projecttype: "Beauty",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "Shopify",
+        name: "Meta",
         color: "blue-text-gradient",
       },
       {
-        name: "javascript",
+        name: "Facebook",
         color: "green-text-gradient",
       },
       {
-        name: "jquery",
+        name: "Instagram",
         color: "pink-text-gradient",
-      },
-      {
-        name: "css",
-        color: "blue-text-gradient",
-      },
+      }
     ],
     slide_imgOne:   voluspaOne,
     slide_imgTwo: voluspatwo,
     slide_imgThree: voluspathree,
     image: elenorone,
     source_code_link: "",
-    live_link: "https://elanor.com.pk/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales.Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
+    live_link: "https://neutrogenaofficial.shop",
+    case_study: ""
 
   },
   {
-    name: "Rodh Skin",
-    Cetagory: 'shopify frontend',
-    projecttype: "Skin Care",
+    name: "Lookiks",
+    Cetagory: 'Digital Marketing',
+    projecttype: "Brand Marketing and Managing",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "Shopify",
+        name: "Google Ads",
         color: "blue-text-gradient",
       },
       {
-        name: "Javascript",
+        name: "Meta Ads",
         color: "green-text-gradient",
       },
       {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "swipper.js",
+        name: "Tiktik Ads",
         color: "pink-text-gradient",
       },
     ],
     image: rodhskin,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
+    source_code_link: "",
+    live_link: "https://lookiks.com/",
     case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
   },
   {
-    name: "Acne Studio",
-    Cetagory: 'shopify frontend',
-    projecttype: "Clothing Brand",
+    name: "The SkinFit",
+    Cetagory: 'Digital Marketing',
+    projecttype: "Skin Care",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "Shopify",
+        name: "Meta",
         color: "blue-text-gradient",
       },
       {
-        name: "Javascript",
+        name: "Google Ads",
         color: "green-text-gradient",
       },
       {
-        name: "liquid",
+        name: "Facebook",
         color: "pink-text-gradient",
-      },
-      {
-        name: "css",
-        color: "blue-text-gradient",
       },
     ],
     image: acness,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
+    source_code_link: "",
+    live_link: "https://theskinfit.com/",
     case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "loop studio",
-    Cetagory: 'shopify frontend',
-    projecttype: "Clothing Brand",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "React",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Javascript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "html",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "css",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: projectimgone,
-    source_code_link: "https://github.com/",
-    live_link: "https://moosa-loop-studio.netlify.app/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "gGym X",
-    Cetagory: 'shopify frontend',
-    projecttype: "Clothing Brand",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "React js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Javascript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: projectimgtwo,
-    source_code_link: "https://github.com/",
-    live_link: "https://gymx-moosa-5b4cd7.netlify.app/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "sunny-side",
-    Cetagory: 'shopify frontend',
-    projecttype: "Clothing Brand",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "React js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Javascript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: projectimgthree,
-    source_code_link: "https://github.com/",
-    live_link: "https://moosa-sunny-side.netlify.app/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "Arch",
-    Cetagory: 'shopify frontend',
-    projecttype: "Clothing Brand",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "Shopify",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Javascript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: projectimgfour,
-    source_code_link: "https://github.com/",
-    live_link: "https://moosa-wolf-street.netlify.app/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "s-Trip Guide",
-    Cetagory: 'shopify case-studies',
-    projecttype: "candle site",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "s-Trip Guide",
-    Cetagory: 'shopify case-studies',
-    projecttype: "candle site",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "s-Trip Guide",
-    Cetagory: 'shopify case-studies',
-    projecttype: "candle site",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "m-Trip Guide",
-    Cetagory: 'mern stack',
-    projecttype: "candle site",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "m-Trip Guide",
-    Cetagory: 'mern stack',
-    projecttype: "candle site",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
-  {
-    name: "m-Trip Guide",
-    Cetagory: 'mern stack',
-    projecttype: "candle site",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    live_link: "https://voluspa.com/",
-    case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
-  },
+  }
 ];
 const tools = [
   {
