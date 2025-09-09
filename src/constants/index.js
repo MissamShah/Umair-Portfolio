@@ -18,6 +18,9 @@ import {
   ecom,
   Chum_Chum_Digital,
   ITCurves,
+  nutro,
+  lookiks,
+  skin,
   carrent,
   jobit,
   tripguide,
@@ -294,7 +297,7 @@ const projects = [
     Cetagory: 'Digital Marketing',
     projecttype: "Beauty",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Drawing on my experience scaling major brands like Neutrogena, I will position this platform as the most trusted and essential career tool in Pakistan. My strategy will focus on building a powerful brand that connects top talent with premier opportunities, driving massive user acquisition. The result will be market leadership and making this app synonymous with professional growth.",
     tags: [
       {
         name: "Meta",
@@ -312,7 +315,7 @@ const projects = [
     slide_imgOne:   voluspaOne,
     slide_imgTwo: voluspatwo,
     slide_imgThree: voluspathree,
-    image: elenorone,
+    image: nutro,
     source_code_link: "",
     live_link: "https://neutrogenaofficial.shop",
     case_study: ""
@@ -323,7 +326,7 @@ const projects = [
     Cetagory: 'Digital Marketing',
     projecttype: "Brand Marketing and Managing",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "I directed the comprehensive branding and marketing strategy for lookiks.com, a diverse Saudi Arabian online retailer. My campaigns drove growth across all their key categories: grocery, baby products, beauty, and gaming. This strategic management was essential in building brand awareness and driving multi-million-dollar revenue.",
     tags: [
       {
         name: "Google Ads",
@@ -338,7 +341,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: rodhskin,
+    image: lookiks,
     source_code_link: "",
     live_link: "https://lookiks.com/",
     case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."
@@ -348,7 +351,7 @@ const projects = [
     Cetagory: 'Digital Marketing',
     projecttype: "Skin Care",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Based on my experience building brands, I would position this application as the ultimate career empowerment tool, directly addressing user pain points like salary transparency. Our marketing will use geo-targeting to showcase relevant, high-paying local jobs, making the search instantly valuable. The core message is simple: Stop guessing your worth and find the perfect job right where you are.",
     tags: [
       {
         name: "Meta",
@@ -363,7 +366,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: acness,
+    image: skin,
     source_code_link: "",
     live_link: "https://theskinfit.com/",
     case_study: "Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales. Stepify, a startup in the footwear industry, wanted to build a modern, responsive e-commerce website to showcase and sell their latest shoe collections. Their goal was to provide a seamless user experience across all devices, improve engagement, and boost sales."

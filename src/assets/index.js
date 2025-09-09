@@ -44,6 +44,9 @@ import voluspathree from "./voluspa-img/vlouspa 2.png";
 import elenorone from "./elenor one.png";
 import rodhskin from "./rodhskin.png"
 import acness from "./acness.png"
+import lookiks from "./lookiks.png"
+import nutro from "./nutro.png"
+import skin from "./skin.png"
 
 import projectimgone from "./projectione.png";
 import projectimgtwo from "./projectitwo.png";
@@ -105,5 +108,8 @@ export {
   notiontool,
   googlecloudtool,
   slacktool,
-  figmatool
+  figmatool,
+  nutro,
+  lookiks,
+  skin
 };
