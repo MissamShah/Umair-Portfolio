@@ -93,9 +93,9 @@ const Works = () => {
   });
 
   const [selectedProject, setSelectedProject] = useState(null);
-  const [selectedCategory, setSelectedCategory] = useState('shopify frontend');
+  const [selectedCategory, setSelectedCategory] = useState('Digital Marketing');
 
-  const categories = ['shopify frontend', 'shopify case-studies', 'mern stack'];
+  const categories = ['Digital Marketing'];
 
   useEffect(() => {
     console.log("Selected Category:", selectedCategory);
